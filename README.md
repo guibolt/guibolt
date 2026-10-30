@@ -2,7 +2,7 @@
 
 **Engenheiro de Software | C# / .NET | Backend e Sistemas Distribuídos**
 
-Sou engenheiro de software com mais de 7 anos de experiência em C#/.NET e mais de 5 anos em sistemas financeiros e regulatórios, incluindo atuação no BTG Pactual.
+Sou engenheiro de software com mais de 7 anos de experiência em C#/.NET e mais de 5 anos em sistemas financeiros e regulatórios.
 
 Meu foco está em APIs, processamento assíncrono, integrações e modernização de legado. Atuo do entendimento das necessidades de negócio ao desenho técnico, implementação e sustentação em produção.
 
